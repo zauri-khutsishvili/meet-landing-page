@@ -4,7 +4,7 @@ This is a solution to the [Meet landing page challenge on Frontend Mentor](https
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/equalizer-landing-page-qeAtyPYjvy](https://www.frontendmentor.io/solutions/equalizer-landing-page-qeAtyPYjvy)
+- Solution URL: [https://www.frontendmentor.io/solutions/meet-landing-page-m0EcCyRRJv](https://www.frontendmentor.io/solutions/meet-landing-page-m0EcCyRRJv)
 - Live Site URL: [https://zauri-khutsishvili.github.io/meet-landing-page/](https://zauri-khutsishvili.github.io/meet-landing-page/)
 
 ## Built with
