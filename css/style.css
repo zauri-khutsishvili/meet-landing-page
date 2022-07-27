@@ -197,7 +197,7 @@ body {
 }
 .header__logo {
   margin-top: 8rem;
-  margin-bottom: 10.6rem;
+  margin-bottom: 10.5rem;
 }
 .header__title {
   max-width: 44.5rem;
@@ -319,17 +319,17 @@ main {
 }
 .meetings__built {
   color: var(--gray);
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.6rem;
   padding: 0 2.4rem;
 }
 .meetings__title {
   max-width: 49.3rem;
   color: var(--black);
-  margin: 0 auto 0.8em;
+  margin: 0 auto 0.78em;
   padding: 0 2.4rem;
 }
 .meetings__description {
-  max-width: 57rem;
+  max-width: 60rem;
   color: var(--gray);
   letter-spacing: -0.0015em;
   margin: auto;
