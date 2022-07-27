@@ -89,7 +89,7 @@ p {
   font-size: 1.6rem;
   font-weight: 900;
   line-height: 162%;
-  padding: 1.05em 2.5em 0.95em;
+  padding: 1em 2.5em;
   border-radius: 2.9rem;
   cursor: pointer;
   transition: background-color 0.15s ease-in-out;
@@ -197,7 +197,7 @@ body {
 }
 .header__logo {
   margin-top: 8rem;
-  margin-bottom: 10.5rem;
+  margin-bottom: 10.4rem;
 }
 .header__title {
   max-width: 44.5rem;
@@ -206,7 +206,7 @@ body {
 }
 .header__description {
   color: var(--gray);
-  margin-bottom: 3.2rem;
+  margin-bottom: 3.3rem;
 }
 .header__buttons {
   display: flex;
@@ -325,7 +325,7 @@ main {
 .meetings__title {
   max-width: 49.3rem;
   color: var(--black);
-  margin: 0 auto 0.78em;
+  margin: 0 auto 0.75em;
   padding: 0 2.4rem;
 }
 .meetings__description {
