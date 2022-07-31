@@ -323,13 +323,13 @@ main {
 }
 .meetings__built {
   color: var(--gray);
-  margin-bottom: 1.65rem;
+  margin-bottom: 1.6rem;
   padding: 0 2.4rem;
 }
 .meetings__title {
   max-width: 49.3rem;
   color: var(--black);
-  margin: 0 auto 0.7625em;
+  margin: 0 auto 0.775em;
   padding: 0 2.4rem;
 }
 .meetings__description {
@@ -415,8 +415,8 @@ main {
 .together__title {
   max-width: 35rem;
   margin-right: 3.5rem;
-  margin-top: 0.05rem;
-  margin-bottom: -0.05rem;
+  margin-top: 0.025rem;
+  margin-bottom: -0.25rem;
 }
 .together__description {
   max-width: 35rem;
