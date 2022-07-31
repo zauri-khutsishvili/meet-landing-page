@@ -64,7 +64,7 @@ h2 {
 }
 
 p {
-  font-size: 1.8rem;
+  font-size: 1.81rem;
   font-weight: 500;
   line-height: 1.4444444444em;
 }
@@ -190,7 +190,7 @@ body {
 }
 
 .header {
-  max-width: 54rem;
+  max-width: 55rem;
   width: 100%;
   text-align: center;
   margin-bottom: 11.7rem;
@@ -206,7 +206,7 @@ body {
 }
 .header__description {
   color: var(--gray);
-  margin-bottom: 3.3rem;
+  margin-bottom: 3.29rem;
 }
 .header__buttons {
   display: flex;
