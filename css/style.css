@@ -147,7 +147,7 @@ p {
 }
 
 .divider-1__number {
-  padding: 0.966em 1.204em 0.966em 1.105em;
+  padding: 0.965em 1.183em 0.966em 1.125em;
 }
 @media (max-width: 48em) {
   .divider-1__number {
@@ -422,7 +422,7 @@ main {
   max-width: 35rem;
   margin-right: 0.2rem;
   margin-top: -0.1rem;
-  letter-spacing: -0.005em;
+  letter-spacing: -0.003em;
 }
 .together__download {
   align-self: center;
