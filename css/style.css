@@ -38,7 +38,7 @@ h1 {
   font-size: 6.4rem;
   font-weight: 900;
   line-height: 1em;
-  letter-spacing: 0.002em;
+  letter-spacing: 0.003em;
 }
 @media (max-width: 78.5em) {
   h1 {
@@ -146,6 +146,9 @@ p {
   border-radius: 50%;
 }
 
+.divider-1__number {
+  padding: 1.066em 1.229em 0.866em 1.08em;
+}
 @media (max-width: 48em) {
   .divider-1__number {
     padding: 0.976em 1.178em 0.775em 1.13em;
@@ -320,13 +323,13 @@ main {
 }
 .meetings__built {
   color: var(--gray);
-  margin-bottom: 1.7rem;
+  margin-bottom: 1.8rem;
   padding: 0 2.4rem;
 }
 .meetings__title {
   max-width: 49.3rem;
   color: var(--black);
-  margin: 0 auto 0.75em;
+  margin: 0 auto 0.725em;
   padding: 0 2.4rem;
 }
 .meetings__description {
