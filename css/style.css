@@ -146,9 +146,6 @@ p {
   border-radius: 50%;
 }
 
-.divider-1__number {
-  padding: 0.916em 1.154em 1.016em 1.155em;
-}
 @media (max-width: 48em) {
   .divider-1__number {
     padding: 0.976em 1.178em 0.775em 1.13em;
@@ -194,7 +191,7 @@ body {
 }
 
 .header {
-  max-width: 55rem;
+  max-width: 54rem;
   width: 100%;
   text-align: center;
   margin-bottom: 11.7rem;
@@ -305,7 +302,7 @@ main {
 
 .meetings {
   text-align: center;
-  margin-bottom: 18.4rem;
+  margin-bottom: 18.442rem;
 }
 .meetings__images {
   margin: 6.4rem auto 8rem;
@@ -323,13 +320,13 @@ main {
 }
 .meetings__built {
   color: var(--gray);
-  margin-bottom: 1.6rem;
+  margin-bottom: 1.7rem;
   padding: 0 2.4rem;
 }
 .meetings__title {
   max-width: 49.3rem;
   color: var(--black);
-  margin: 0 auto 0.775em;
+  margin: 0 auto 0.75em;
   padding: 0 2.4rem;
 }
 .meetings__description {
