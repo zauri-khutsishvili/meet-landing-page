@@ -25,6 +25,10 @@
 }
 
 .divider-1 {
+    &__number {
+        padding: .916em 1.154em 1.016em 1.155em;
+    }
+
     @include a.breakpoint(tablet) {
         &__number {
             padding: .976em 1.178em .775em 1.13em;
@@ -43,7 +47,7 @@
     top: -11.2rem;
     
     &__number {
-        padding: 1.037em 1.055em .895em 1.055em;
+        padding: .987em 1.055em .945em 1.055em;
     }
 
     @include a.breakpoint(tablet) {
