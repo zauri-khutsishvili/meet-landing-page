@@ -323,19 +323,19 @@ main {
 }
 .meetings__built {
   color: var(--gray);
-  margin-bottom: 1.625rem;
+  margin-bottom: 1.65rem;
   padding: 0 2.4rem;
 }
 .meetings__title {
   max-width: 49.3rem;
   color: var(--black);
-  margin: 0 auto 0.7625em;
+  margin: 0 auto 0.75em;
   padding: 0 2.4rem;
 }
 .meetings__description {
   max-width: 60rem;
   color: var(--gray);
-  letter-spacing: -0.005em;
+  letter-spacing: -0.0015em;
   margin: auto;
   padding: 0 1.5em;
 }
@@ -422,6 +422,7 @@ main {
   max-width: 35rem;
   margin-right: 0.2rem;
   margin-top: -0.1rem;
+  letter-spacing: -0.005em;
 }
 .together__download {
   align-self: center;
