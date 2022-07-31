@@ -51,6 +51,7 @@
         align-self: center;
         display: flex;
         gap: .18em;
+        margin-top: .2rem;
     }
 
     @include a.breakpoint(hero) {
